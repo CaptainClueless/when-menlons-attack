@@ -1,0 +1,7 @@
+"minigames"
+{
+	"base"	"fluffy_mg_base"
+	"title"	"When Melons Attack"
+    "maps"	"^cs_"
+	"category" 	"pvp"
+}
